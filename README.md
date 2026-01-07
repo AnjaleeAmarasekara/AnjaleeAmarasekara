@@ -68,8 +68,6 @@ I enjoy working across the stack—from clean UI design to backend APIs and data
 
 ## 📌 Featured Projects (Pinned)
 
-> Tip: Pin these 4 repos on your GitHub profile for maximum recruiter impact.
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -98,9 +96,9 @@ Live location tracking, seat booking, and notifications.
     <td width="50%" valign="top">
 
 ### 📊 Employee Attrition Prediction — ML & HR Analytics
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
 
-ML-based web app predicting attrition and visualizing HR insights.  
+ML-based web app predicting employee attrition and visualizing HR insights.  
 **Tech:** Python, Flask, Scikit-learn, Pandas  
 🔗 https://github.com/AnjaleeAmarasekara/employee-attrition-prediction
 
